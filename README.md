@@ -1,5 +1,5 @@
 # QuickLoad
- Quick load dev setup that commonly used by me
+ Quick load of dev setup that is commonly used by me
 
  1. Git
  2. Java 11 - Maven
