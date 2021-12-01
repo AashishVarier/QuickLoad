@@ -1,0 +1,11 @@
+#Create a kind cluster
+kind create cluster --name wslkindmultinodes --config ./kind-3nodes.yaml
+
+#delete a kind cluster
+kind delete cluster --name wslkindmultinodes
+
+#get list of existing cluster
+kind get clusters
+
+#cluster info
+kubectl cluster-info
