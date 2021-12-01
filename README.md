@@ -8,5 +8,5 @@
  5. Elastic Stack
  6. Visual Studio Code (sync setting enabld)
  7. React
- 8. Cassandra - MySQL - Redis
+ 8. NoSQL - RDBMS
  9. GoDot
